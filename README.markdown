@@ -125,9 +125,7 @@ graph TD
 
 Check out the demo video to see the application in action:
 
-[Watch the Video](https://github.com/yourusername/DYNAMIC-ROUTE-OPTIMIZER/blob/main/demo.mp4)
-
-**Note**: Replace `yourusername` with your actual GitHub username and ensure `demo.mp4` is uploaded to your repository.
+[Watch the Video](https://github.com/yatharthchopra2424/DYNAMIC-ROUTE-OPTIMIZER/blob/main/demo.mp4)
 
 ## 🤝 Contributing
 
