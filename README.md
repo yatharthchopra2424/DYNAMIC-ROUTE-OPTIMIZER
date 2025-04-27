@@ -125,7 +125,10 @@ graph TD
 
 Check out the demo video to see the application in action:
 
-[Watch the Video](https://github.com/yatharthchopra2424/DYNAMIC-ROUTE-OPTIMIZER/blob/main/demo.mp4)
+
+https://github.com/user-attachments/assets/cbe7a5cd-bd40-44aa-8530-90134d60d698
+
+
 
 ## 🤝 Contributing
 
